@@ -1,0 +1,26 @@
+ [
+    {
+      "category": "Pizza",
+      "description": "Delicious pizzas for pizza lovers."
+    },
+    {
+      "category": "Pasta",
+      "description": "Savory pasta dishes made with authentic recipes."
+    },
+    {
+      "category": "Biryani",
+      "description": "Aromatic rice dishes cooked with flavorful spices."
+    },
+    {
+      "category": "Burger",
+      "description": "Juicy burgers with various toppings for burger enthusiasts."
+    },
+    {
+      "category": "Risotto",
+      "description": "Creamy Italian rice dishes with rich flavors."
+    },
+    {
+      "category": "Asian",
+      "description": "Delightful Asian dishes with unique ingredients and flavors."
+    }
+  ]

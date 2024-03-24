@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Hawaiian Pizza",
+        "description": "Classic Hawaiian pizza topped with tomato sauce, ham, pineapple, and mozzarella cheese.",
+        "price": 199,
+        "options": [
+          { "name": "small", "price": 150 },
+          { "name": "medium", "price": 200 },
+          { "name": "large", "price": 250 }
+        ],
+        "category": "Pizza",
+        "image": "https://media.istockphoto.com/id/185265259/photo/hawaiian-pizza-close-up.webp?b=1&s=170667a&w=0&k=20&c=zirSZ0DFo2MrxYiHKyHOAib3ICpilZbUanyZKj6eFfw="
+      },
+      {
+        "name": "BBQ Chicken Pizza",
+        "description": "Delicious BBQ chicken pizza topped with BBQ sauce, grilled chicken, onions, and cilantro.",
+        "price": 299,
+        "options": [
+          { "name": "small", "price": 160 },
+          { "name": "medium", "price": 210 },
+          { "name": "large", "price": 260 }
+        ],
+        "category": "Pizza",
+        "image": "https://media.istockphoto.com/id/1208417752/photo/pizza-with-chicken-and-barbeque-sauce-italian-pizza-on-wooden-table-background.webp?b=1&s=170667a&w=0&k=20&c=Gt7swhGDvqaULtrkgA5gUNT-UBWZ1Hi8THFykC49gaw="
+      },
+      
+      {
+        "name": "Shrimp Alfredo Pasta",
+        "description": "Creamy pasta dish made with fettuccine noodles, succulent shrimp, and Alfredo sauce.",
+        "price": 399,
+        "options": [
+          { "name": "regular", "price": 160 },
+          { "name": "large", "price": 220 }
+        ],
+        "category": "Pasta",
+        "image": "https://media.istockphoto.com/id/1282481448/photo/shrimp-alfredo.webp?b=1&s=170667a&w=0&k=20&c=edSE7v4yb-O_tWy2ZhKvxVXxKZ_rqJ6Q9dqv3RU5Ou0="
+      },
+     
+      {
+        "name": "Beef Biryani",
+        "description": "Authentic Indian rice dish made with aromatic basmati rice, tender beef pieces, and fragrant spices.",
+        "price": 14.99,
+        "options": [
+          { "name": "small", "price": 180 },
+          { "name": "regular", "price": 250 },
+          { "name": "family", "price": 400 }
+        ],
+        "category": "Biryani",
+        "image": ""
+      },
+     
+      {
+        "name": "Chicken Tikka Masala",
+        "description": "Classic Indian dish featuring tender chicken pieces simmered in a rich tomato and cream sauce.",
+        "price": 13.99,
+        "options": [
+          { "name": "regular", "price": 170 },
+          { "name": "large", "price": 240 }
+        ],
+        "category": "Curry",
+        "image": "https://example.com/chicken_tikka_masala.jpg"
+      },
+     
+      {
+        "name": "Pad See Ew",
+        "description": "Thai stir-fried noodles with chicken, broccoli, and egg, flavored with sweet soy sauce.",
+        "price": 10.99,
+        "options": [
+          { "name": "small", "price": 130 },
+          { "name": "regular", "price": 190 }
+        ],
+        "category": "Asian",
+        "image": "https://example.com/pad_see_ew.jpg"
+      },
+      
+      {
+        "name": "Sushi Platter",
+        "description": "Assorted sushi rolls including California roll, salmon roll, and tuna roll, served with soy sauce and wasabi.",
+        "price": 15.99,
+        "options": [
+          { "name": "small", "price": 180 },
+          { "name": "large", "price": 250 }
+        ],
+        "category": "Sushi",
+        "image": "https://example.com/sushi_platter.jpg"
+      },
+    
+      {
+        "name": "Pho",
+        "description": "Traditional Vietnamese noodle soup with beef or chicken, fresh herbs, bean sprouts, and lime.",
+        "price": 11.99,
+        "options": [
+          { "name": "small", "price": 140 },
+          { "name": "regular", "price": 200 }
+        ],
+        "category": "Asian",
+        "image": "https://example.com/pho.jpg"
+      }
+]

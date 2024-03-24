@@ -1,0 +1,34 @@
+.admin-dashboard {
+    padding: 20px;
+  }
+  
+  .food-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .food-card {
+    width: calc(33.33% - 20px); /* Adjust width as needed */
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .food-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .food-image {
+    height: 200px; /* Adjust height as needed */
+    overflow: hidden;
+  }
+  
+  .food-buttons {
+    margin-top: 10px;
+  }
+  
+  .food-buttons button {
+    margin-right: 10px;
+  }
+  
